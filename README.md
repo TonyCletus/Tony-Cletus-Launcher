@@ -1,5 +1,5 @@
 # Tony-Cletus-Launcher
-Google Chrome Extension:
-Easy Gateway To Tony Cletus Hot Links
+<strong style='color: red'>Google Chrome Extension:</strong>
+<strong style='color: blue'>Easy Gateway To Tony Cletus Hot Links</strong>
 
-A SOURCE TO THE YOUTUBE TUTORIAL
+<blockquote>A SOURCE CODE TO THE YOUTUBE TUTORIAL<bluockquote>
